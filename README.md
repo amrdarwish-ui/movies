@@ -1,16 +1,11 @@
 # movies
 
-A new Flutter project.
+- Communicates with the internet and provides a responsive user experience.
 
-## Getting Started
+- Fetch data from the internet through APIs.
 
-This project is a starting point for a Flutter application.
+- Created a popular movies app, helped users to easily track the top rated and popular movies from their devices.
 
-A few resources to get you started if this is your first Flutter project:
+- Allow users to view and play trailers (On YouTube).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Allow users to read reviews of a selected movie.
